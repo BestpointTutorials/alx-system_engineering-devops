@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Where am I 2?' > README.md
+echo 'Where am I?' > README.md
