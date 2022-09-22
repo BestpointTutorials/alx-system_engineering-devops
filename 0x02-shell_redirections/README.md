@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'Shell Redirection' > README.md	
+echo 'shell redirection' > README.md
